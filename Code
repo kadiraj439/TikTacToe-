@@ -113,7 +113,6 @@ public:
     }
 
     void switchPlayer() {
-        // somehow I wrote '=' instead of '==' at first and it broke everything
         currentPlayer = (currentPlayer == 'X') ? 'O' : 'X';
     }
 
