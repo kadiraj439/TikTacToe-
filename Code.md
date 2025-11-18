@@ -26,17 +26,6 @@ void playGame() → Run the full game loop.
 Player 1 uses 'X', Player 2 uses 'O'.
 Players take turns entering row and column numbers (1--3).
 After each move, the board updates and the winner/draw is checked
----
-
-## 📘 Program Description
-This program lets two players play Tic-Tac-Toe using a **class-based design**.  
-The game uses a `TicTacToe` class that stores the board, current player, and game logic.
-
-Players enter row and column numbers (1–3), and the board updates until either:
-- A player wins, or  
-- The game ends in a draw  
-
----
 
 ## C++ Source Code
 
